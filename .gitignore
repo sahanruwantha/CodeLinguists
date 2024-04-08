@@ -1,0 +1,13 @@
+# Virtual environment
+InferenceAPI/venv/
+
+# pytest cache
+InferenceAPI/utils/.pytest_cache/
+
+# Byte-compiled files
+InferenceAPI/__pycache__/
+InferenceAPI/**/__pycache__/
+InferenceAPI/*/*.py[cod]
+
+# Config file
+config.json

@@ -1,8 +1,6 @@
 # Virtual environment
 InferenceAPI/venv
-
 InferenceAPI/tests
-
 # pytest cache
 InferenceAPI/utils/.pytest_cache/
 
